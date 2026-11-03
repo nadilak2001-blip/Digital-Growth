@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadila_kasthuriarachchi.github.io/DMIP_PartB/sitemap.xml

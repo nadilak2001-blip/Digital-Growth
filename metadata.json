@@ -1,0 +1,6 @@
+{
+  "name": "Signal & Scale",
+  "description": "Evidence-based B2B digital marketing and SEO consultancy for Australian micro and small service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
